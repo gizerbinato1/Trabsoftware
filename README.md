@@ -10,7 +10,7 @@ Aprimorar a metodologia de entrega, recebendo pedidos de clientes de forma centr
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
+
 
 
 
